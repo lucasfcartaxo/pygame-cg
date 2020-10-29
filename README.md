@@ -1,7 +1,14 @@
-# pygame-cg
+# Criando Ambiente Virtual
+- python3 -m venv env
 
-# Pygame Install Ubuntu
-- sudo apt-get install python3-pygame
+# Ativando o Ambiente
+- source env/bin/activate 
+
+# Desativando o Ambiente
+- deactivate
+
+# Instalando Dependencias 
+- pip install -r requirements.txt
 
 # Vamos criar um novo jogo utilizando o pygame ?
 - segue um link para ajudar
@@ -9,4 +16,5 @@
 - https://github.com/pygame/pygame/tree/master/examples
 
 # Contribuidores
-    -lfontesc
+- lfontesc
+- csamuelr
